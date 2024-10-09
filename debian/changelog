@@ -1,5 +1,36 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-xlab-treeprint (1.2.0-2) unstable; urgency=medium
 
-  * Initial release
+  * Team upload.
+  * Upload to unstable
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Reinhard Tartler <siretart@tauware.de>  Fri, 09 Aug 2024 16:26:55 -0400
+
+golang-github-xlab-treeprint (1.2.0-1) experimental; urgency=medium
+
+  * Team upload.
+  * New upstream release: 1.2.0
+
+ -- Reinhard Tartler <siretart@tauware.de>  Tue, 06 Aug 2024 20:24:25 -0400
+
+golang-github-xlab-treeprint (0.0~git20181112.a009c39-2) unstable; urgency=medium
+
+  [ Debian Janitor ]
+  * Bump debhelper from old 11 to 12.
+  * Set upstream metadata fields: Bug-Database, Bug-Submit.
+
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Sat, 06 Feb 2021 15:19:44 +0000
+
+golang-github-xlab-treeprint (0.0~git20181112.a009c39-1) unstable; urgency=medium
+
+  * Team upload.
+  * New upstream snapshot.
+  * Automatic cme fixes.
+  * Update gbp.conf.
+
+ -- Martina Ferrari <tincho@debian.org>  Tue, 29 Oct 2019 09:16:55 +0000
+
+golang-github-xlab-treeprint (0.0~git20180324.505f0ee-1) unstable; urgency=medium
+
+  * Initial release (Closes: #900137)
+
+ -- Alexandre Viau <aviau@debian.org>  Sat, 26 May 2018 13:28:43 -0400
